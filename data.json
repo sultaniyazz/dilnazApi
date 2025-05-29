@@ -1,0 +1,169 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Shum Bola",
+      "category": "Adventure",
+      "image": "https://picsum.photos/id/1011/300/400",
+      "postedAt": "2025-05-20T14:32:00Z",
+      "description": "\"Bola bo‘lish – ayb emas, lekin soddalikda qalb bor\" – asarning eng ta’sirli satrlaridan biri.",
+      "likes": 120,
+      "seller": "Ali Karimov",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Ikki Eshik Orasida",
+      "category": "Drama",
+      "image": "https://picsum.photos/id/1012/300/400",
+      "postedAt": "2025-05-19T10:00:00Z",
+      "description": "\"Hayot seni sinaydi, lekin yuraging adashmasa – g‘alaba sendan bo‘ladi.\"",
+      "likes": 98,
+      "seller": "Malika Xudoyberdiyeva",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "O‘tkan Kunlar",
+      "category": "Historical",
+      "image": "https://picsum.photos/id/1013/300/400",
+      "postedAt": "2025-05-18T16:45:00Z",
+      "description": "\"Sevgi – yurakdagi isyon, uni aql bilan o‘lchab bo‘lmaydi.\"",
+      "likes": 156,
+      "seller": "Shahzod Fayzullaev",
+      "rating": 5.0
+    },
+    {
+      "id": 4,
+      "title": "Ufq",
+      "category": "Philosophy",
+      "image": "https://picsum.photos/id/1014/300/400",
+      "postedAt": "2025-05-17T09:22:00Z",
+      "description": "\"Inson o‘zining ichki olamiga quloq solmaguncha, u hech narsani bilmaydi.\"",
+      "likes": 67,
+      "seller": "Dilnoza Karimova",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "title": "Bo‘rilar",
+      "category": "Thriller",
+      "image": "https://picsum.photos/id/1015/300/400",
+      "postedAt": "2025-05-16T12:18:00Z",
+      "description": "\"Qo‘rquvni his qilish – yashayotganing belgisi, unga yengilmaslik – kuching.\"",
+      "likes": 230,
+      "seller": "Azizbek Yo‘ldoshev",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "title": "Bahor Kuylari",
+      "category": "Romance",
+      "image": "https://picsum.photos/id/1016/300/400",
+      "postedAt": "2025-05-15T08:00:00Z",
+      "description": "\"Muhabbat bir gul, uni parvarish qilmasang, quriydi.\"",
+      "likes": 180,
+      "seller": "Nozima Rashidova",
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "title": "Sahrodagi Yulduzlar",
+      "category": "Adventure",
+      "image": "https://picsum.photos/id/1017/300/400",
+      "postedAt": "2025-05-14T15:30:00Z",
+      "description": "\"Qiyinchiliklar – yo‘lni yorituvchi yulduzlar kabi.\"",
+      "likes": 143,
+      "seller": "Javlonbek Mardonov",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "title": "Yolg‘izlik",
+      "category": "Psychology",
+      "image": "https://picsum.photos/id/1018/300/400",
+      "postedAt": "2025-05-13T18:15:00Z",
+      "description": "\"Yolg‘izlik – azob emas, ruhni tinglashga berilgan imkon.\"",
+      "likes": 76,
+      "seller": "Nilufar Tursunova",
+      "rating": 4.4
+    },
+    {
+      "id": 9,
+      "title": "Qorong‘ulikda Nur",
+      "category": "Motivation",
+      "image": "https://picsum.photos/id/1019/300/400",
+      "postedAt": "2025-05-12T13:10:00Z",
+      "description": "\"Har bir qorong‘ulik ortida bir nur yashirin.\"",
+      "likes": 201,
+      "seller": "Sherzod Davronov",
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "title": "Chorrahada",
+      "category": "Drama",
+      "image": "https://picsum.photos/id/1020/300/400",
+      "postedAt": "2025-05-11T11:05:00Z",
+      "description": "\"Har tanlov – o‘tmishni o‘zgartira olmasang ham, kelajakka eshik ochadi.\"",
+      "likes": 92,
+      "seller": "Gulbahor Ergasheva",
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "title": "Qizil Daryo",
+      "category": "History",
+      "image": "https://picsum.photos/id/1021/300/400",
+      "postedAt": "2025-05-10T14:40:00Z",
+      "description": "\"Daryo oqadi, lekin u kechmishlardan hikoya qiladi.\"",
+      "likes": 134,
+      "seller": "Muxlis Yusupov",
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "title": "So‘zsiz",
+      "category": "Poetry",
+      "image": "https://picsum.photos/id/1022/300/400",
+      "postedAt": "2025-05-09T09:20:00Z",
+      "description": "\"Ba’zan eng chuqur tuyg‘ularni so‘z emas, jimlik ifodalaydi.\"",
+      "likes": 88,
+      "seller": "Zarina Toshpo‘latova",
+      "rating": 4.3
+    },
+    {
+      "id": 13,
+      "title": "Aql va Yurak",
+      "category": "Psychology",
+      "image": "https://picsum.photos/id/1023/300/400",
+      "postedAt": "2025-05-08T17:10:00Z",
+      "description": "\"Yurak his qiladi, aql tahlil qiladi – haqiqiy qaror ular birlashganda tug‘iladi.\"",
+      "likes": 95,
+      "seller": "Islom Karim",
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "title": "Tungi Yomg‘ir",
+      "category": "Romance",
+      "image": "https://picsum.photos/id/1024/300/400",
+      "postedAt": "2025-05-07T21:00:00Z",
+      "description": "\"Yomg‘ir ostida sevgi izhor etilgan kechalar unutilmaydi.\"",
+      "likes": 104,
+      "seller": "Rayhona Akbarova",
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "title": "Chegarasiz Xayollar",
+      "category": "Science Fiction",
+      "image": "https://picsum.photos/id/1025/300/400",
+      "postedAt": "2025-05-06T13:55:00Z",
+      "description": "\"Tasavvur qilishni bas qilsang, borliq ham to‘xtaydi.\"",
+      "likes": 119,
+      "seller": "Murod Turg‘unov",
+      "rating": 4.8
+    }
+  ]
+}
