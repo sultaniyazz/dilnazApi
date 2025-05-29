@@ -3,167 +3,362 @@
     {
       "id": 1,
       "title": "Shum Bola",
-      "category": "Adventure",
+      "category": "Jaslar",
       "image": "https://picsum.photos/id/1011/300/400",
       "postedAt": "2025-05-20T14:32:00Z",
-      "description": "\"Bola bo‘lish – ayb emas, lekin soddalikda qalb bor\" – asarning eng ta’sirli satrlaridan biri.",
+      "description": "Xurshid Davronning ushbu asari bolalik davrining soddaligi, do‘stlik va mehribonlik haqida yorqin va samimiy hikoya qiladi. Kitob o‘quvchini chin qalb bilan hayotga, insonlarga mehr qo‘yishga undaydi. Asar orqali bolalik xotiralari qayta jonlanadi.",
+      "phrase": "\"Bola bo‘lish – ayb emas, lekin soddalikda qalb bor\"",
+      "author": "Xurshid Davron",
+      "publishedYear": 1985,
       "likes": 120,
+      "rating": 4.8,
       "seller": "Ali Karimov",
-      "rating": 4.8
+      "comments": [
+        {
+          "user": "Bekzod",
+          "comment": "Bolalik va do‘stlik haqidagi eng zo‘r asar!"
+        },
+        {
+          "user": "Gulnora",
+          "comment": "Mehr va sadoqatni chiroyli tasvirlagan."
+        }
+      ]
     },
     {
       "id": 2,
       "title": "Ikki Eshik Orasida",
-      "category": "Drama",
+      "category": "Qiyal",
       "image": "https://picsum.photos/id/1012/300/400",
       "postedAt": "2025-05-19T10:00:00Z",
-      "description": "\"Hayot seni sinaydi, lekin yuraging adashmasa – g‘alaba sendan bo‘ladi.\"",
+      "description": "Malika Xudoyberdiyeva insonning ichki dunyosi va murakkab munosabatlarini chuqur va falsafiy tarzda ochib beradi. Hayotning murakkab sinovlari va bardoshlilikni o‘rganishga undaydi. Kitob ruhiy tafakkur uchun mo‘ljallangan.",
+      "phrase": "\"Hayot seni sinaydi, lekin yuraging adashmasa – g‘alaba sendan bo‘ladi.\"",
+      "author": "Malika Xudoyberdiyeva",
+      "publishedYear": 1999,
       "likes": 98,
+      "rating": 4.7,
       "seller": "Malika Xudoyberdiyeva",
-      "rating": 4.7
+      "comments": [
+        {
+          "user": "Sardor",
+          "comment": "Muallifning falsafiy qarashlari menga juda yoqdi."
+        },
+        {
+          "user": "Nilufar",
+          "comment": "Asardagi xarakterlar haqiqiy hayotdan olingan."
+        }
+      ]
     },
     {
       "id": 3,
       "title": "O‘tkan Kunlar",
-      "category": "Historical",
+      "category": "Romantika",
       "image": "https://picsum.photos/id/1013/300/400",
       "postedAt": "2025-05-18T16:45:00Z",
-      "description": "\"Sevgi – yurakdagi isyon, uni aql bilan o‘lchab bo‘lmaydi.\"",
-      "likes": 156,
-      "seller": "Shahzod Fayzullaev",
-      "rating": 5.0
+      "description": "Abdulla Qodiriy tomonidan yozilgan bu roman O‘zbek adabiyotining durdonalaridandir. U o‘tmishning ijtimoiy va oilaviy hayotini ta'riflab, inson qalbining chuqur tuyg‘ularini ochib beradi. Sevgi, sadoqat va vafo kabi mavzular kitobda markaziy o‘rin tutadi.",
+      "phrase": "\"Sevgi va sadoqatning kuchi vaqt sinovidan o‘tadi.\"",
+      "author": "Abdulla Qodiriy",
+      "publishedYear": 1925,
+      "likes": 350,
+      "rating": 5.0,
+      "seller": "O‘zbek adabiyoti do‘koni",
+      "comments": [
+        {
+          "user": "Jasur",
+          "comment": "Bu roman menga O‘zbekiston tarixini yanada yaqinlashtirdi."
+        },
+        {
+          "user": "Laylo",
+          "comment": "Sevgi va sadoqatning go‘zal ifodasi."
+        }
+      ]
     },
     {
       "id": 4,
-      "title": "Ufq",
-      "category": "Philosophy",
+      "title": "Alchemist",
+      "category": "Fantastika",
       "image": "https://picsum.photos/id/1014/300/400",
       "postedAt": "2025-05-17T09:22:00Z",
-      "description": "\"Inson o‘zining ichki olamiga quloq solmaguncha, u hech narsani bilmaydi.\"",
-      "likes": 67,
-      "seller": "Dilnoza Karimova",
-      "rating": 4.5
+      "description": "Paulo Coelho tomonidan yozilgan bu asar hayot maqsadi va orzularni amalga oshirish haqidagi ramziy va sehrli hikoya. Kitob o‘quvchini o‘z ichki ovoziga quloq solishga va chinakam baxtni izlashga undaydi.",
+      "phrase": "\"Agar biror narsani chin dildan istasang, butun olam uni amalga oshirishga yordam beradi.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1988,
+      "likes": 540,
+      "rating": 4.9,
+      "seller": "Global Books",
+      "comments": [
+        {
+          "user": "Sardor",
+          "comment": "Har bir o‘quvchi uchun hayotiy kitob."
+        },
+        {
+          "user": "Nilufar",
+          "comment": "Orzularimga ilhom berdi."
+        }
+      ]
     },
     {
       "id": 5,
-      "title": "Bo‘rilar",
-      "category": "Thriller",
+      "title": "1984",
+      "category": "Triller",
       "image": "https://picsum.photos/id/1015/300/400",
       "postedAt": "2025-05-16T12:18:00Z",
-      "description": "\"Qo‘rquvni his qilish – yashayotganing belgisi, unga yengilmaslik – kuching.\"",
-      "likes": 230,
-      "seller": "Azizbek Yo‘ldoshev",
-      "rating": 4.9
+      "description": "Jorj Oruellning mashhur distopik romanidir. U totalitar jamiyatdagi erkinlikning yo‘qolishi, shaxsiy hayotning nazorat ostida bo‘lishi va siyosiy repressiyalarni teran tahlil qiladi. Kitob zamonaviy dunyo haqida ogohlantiruvchi asardir.",
+      "phrase": "\"Erkinlik bu hukmdorga qarshi isyonning boshlanishidir.\"",
+      "author": "George Orwell",
+      "publishedYear": 1949,
+      "likes": 670,
+      "rating": 5.0,
+      "seller": "Classic Reads",
+      "comments": [
+        {
+          "user": "Diyor",
+          "comment": "Hayotimiz uchun ogohlantiruvchi asar."
+        },
+        {
+          "user": "Malika",
+          "comment": "Tushuncha va erkinlik haqida chuqur kitob."
+        }
+      ]
     },
     {
       "id": 6,
-      "title": "Bahor Kuylari",
-      "category": "Romance",
+      "title": "To‘rtinchi O‘q",
+      "category": "Detektiv",
       "image": "https://picsum.photos/id/1016/300/400",
       "postedAt": "2025-05-15T08:00:00Z",
-      "description": "\"Muhabbat bir gul, uni parvarish qilmasang, quriydi.\"",
-      "likes": 180,
-      "seller": "Nozima Rashidova",
-      "rating": 4.6
+      "description": "Agatha Christie yozgan ushbu detektiv roman, sirli qotilliklarni ochish va zo‘r mulohaza yuritishni talab qiluvchi qiziqarli hikoyani taqdim etadi. Kitob o‘quvchini oxirgi sahifagacha hayajonda ushlab turadi.",
+      "phrase": "\"Haqqiqiy sir oxirgi o‘qda yotadi.\"",
+      "author": "Agatha Christie",
+      "publishedYear": 1935,
+      "likes": 420,
+      "rating": 4.8,
+      "seller": "Mystery Books",
+      "comments": [
+        {
+          "user": "Sabina",
+          "comment": "Detektiv janrining eng yaxshi namunasidir."
+        },
+        {
+          "user": "Rustam",
+          "comment": "Oxirigacha sirni topishga intildim."
+        }
+      ]
     },
     {
       "id": 7,
       "title": "Sahrodagi Yulduzlar",
-      "category": "Adventure",
+      "category": "Jaslar",
       "image": "https://picsum.photos/id/1017/300/400",
       "postedAt": "2025-05-14T15:30:00Z",
-      "description": "\"Qiyinchiliklar – yo‘lni yorituvchi yulduzlar kabi.\"",
+      "description": "Javlonbek Mardonovning sarguzasht asari qiyinchilik va umid haqida. Kitobda har qanday sinovda ham orzu va maqsadni yo‘qotmaslik haqida hikoya qilinadi.",
+      "phrase": "\"Qiyinchiliklar – yo‘lni yorituvchi yulduzlar kabi.\"",
+      "author": "Javlonbek Mardonov",
+      "publishedYear": 2018,
       "likes": 143,
+      "rating": 4.7,
       "seller": "Javlonbek Mardonov",
-      "rating": 4.7
+      "comments": [
+        {
+          "user": "Dildora",
+          "comment": "Umid va jasorat haqidagi chiroyli hikoya."
+        },
+        {
+          "user": "Jasur",
+          "comment": "Hayotdagi qiyinchiliklarga qarshi kurashishni o‘rgatadi."
+        }
+      ]
     },
     {
       "id": 8,
       "title": "Yolg‘izlik",
-      "category": "Psychology",
+      "category": "Qiyal",
       "image": "https://picsum.photos/id/1018/300/400",
       "postedAt": "2025-05-13T18:15:00Z",
-      "description": "\"Yolg‘izlik – azob emas, ruhni tinglashga berilgan imkon.\"",
+      "description": "Nilufar Tursunovaning psixologik asari yolg‘izlik va ichki dunyo haqida. Kitob o‘quvchini o‘zini anglash va ruhiy ozodlikka yetish yo‘liga boshlaydi.",
+      "phrase": "\"Yolg‘izlik – azob emas, ruhni tinglashga berilgan imkon.\"",
+      "author": "Nilufar Tursunova",
+      "publishedYear": 2019,
       "likes": 76,
+      "rating": 4.4,
       "seller": "Nilufar Tursunova",
-      "rating": 4.4
+      "comments": [
+        {
+          "user": "Nodira",
+          "comment": "Yolg‘izlik haqida yangi qarash berdi."
+        },
+        {
+          "user": "Bekzod",
+          "comment": "Ruhiy tinchlik haqida ajoyib kitob."
+        }
+      ]
     },
     {
       "id": 9,
       "title": "Qorong‘ulikda Nur",
-      "category": "Motivation",
+      "category": "Qiyal",
       "image": "https://picsum.photos/id/1019/300/400",
       "postedAt": "2025-05-12T13:10:00Z",
-      "description": "\"Har bir qorong‘ulik ortida bir nur yashirin.\"",
+      "description": "Sherzod Davronovning motivatsion kitobi qiyinchiliklar ortidagi imkoniyatlarni ko‘rsatadi. Hayotning har bir qorong‘iligida o‘z nurimiz borligini eslatadi va umid beradi.",
+      "phrase": "\"Har bir qorong‘ulik ortida bir nur yashirin.\"",
+      "author": "Sherzod Davronov",
+      "publishedYear": 2020,
       "likes": 201,
+      "rating": 4.9,
       "seller": "Sherzod Davronov",
-      "rating": 4.9
+      "comments": [
+        {
+          "user": "Zarina",
+          "comment": "Hayotga yangi qarash berdi."
+        },
+        {
+          "user": "Jasur",
+          "comment": "Motivatsiya uchun ideal kitob."
+        }
+      ]
     },
     {
       "id": 10,
-      "title": "Chorrahada",
-      "category": "Drama",
+      "title": "Crime and Punishment",
+      "category": "Triller",
       "image": "https://picsum.photos/id/1020/300/400",
-      "postedAt": "2025-05-11T11:05:00Z",
-      "description": "\"Har tanlov – o‘tmishni o‘zgartira olmasang ham, kelajakka eshik ochadi.\"",
-      "likes": 92,
-      "seller": "Gulbahor Ergasheva",
-      "rating": 4.5
+      "postedAt": "2025-05-11T10:00:00Z",
+      "description": "Fyodor Dostoyevskiy tomonidan yozilgan bu asar jinoyat, qasos va inson ruhiy holatlari haqida chuqur falsafiy tahlil. Qahramonning ichki kurashlari va ijtimoiy adolat masalalari markazda turadi.",
+      "phrase": "\"Har bir jinoyatning o‘z jazosi bor.\"",
+      "author": "Fyodor Dostoyevskiy",
+      "publishedYear": 1866,
+      "likes": 589,
+      "rating": 5.0,
+      "seller": "Classic Russian Literature",
+      "comments": [
+        {
+          "user": "Dmitriy",
+          "comment": "Inson ruhining eng chuqur qatlamlari ochildi."
+        },
+        {
+          "user": "Anvar",
+          "comment": "Jinoyat va jazoni yanada yaxshiroq tushunishga yordam berdi."
+        }
+      ]
     },
     {
       "id": 11,
-      "title": "Qizil Daryo",
-      "category": "History",
+      "title": "Pride and Prejudice",
+      "category": "Romantika",
       "image": "https://picsum.photos/id/1021/300/400",
-      "postedAt": "2025-05-10T14:40:00Z",
-      "description": "\"Daryo oqadi, lekin u kechmishlardan hikoya qiladi.\"",
-      "likes": 134,
-      "seller": "Muxlis Yusupov",
-      "rating": 4.6
+      "postedAt": "2025-05-10T12:30:00Z",
+      "description": "Jane Austenning mashhur romani, ijtimoiy tabakalarga qarshi sevgi va munosabatlarning murakkabligini yorqin tasvirlaydi. Ayollar huquqlari va jamiyatdagi o‘zgarishlar mavzusi o‘rganiladi.",
+      "phrase": "\"Faoliyat va tabiat, g‘urur va e'tibor orasidagi murakkab bog‘liqlik.\"",
+      "author": "Jane Austen",
+      "publishedYear": 1813,
+      "likes": 480,
+      "rating": 4.9,
+      "seller": "English Classics",
+      "comments": [
+        {
+          "user": "Emma",
+          "comment": "Sevgi va jamiyat haqida qiziqarli qarashlar."
+        },
+        {
+          "user": "Sardor",
+          "comment": "Eng yaxshi romantik asarlardan biri."
+        }
+      ]
     },
     {
       "id": 12,
-      "title": "So‘zsiz",
-      "category": "Poetry",
+      "title": "Moby-Dick",
+      "category": "Fantastika",
       "image": "https://picsum.photos/id/1022/300/400",
-      "postedAt": "2025-05-09T09:20:00Z",
-      "description": "\"Ba’zan eng chuqur tuyg‘ularni so‘z emas, jimlik ifodalaydi.\"",
-      "likes": 88,
-      "seller": "Zarina Toshpo‘latova",
-      "rating": 4.3
+      "postedAt": "2025-05-09T15:00:00Z",
+      "description": "Herman Melvillning bu asari insonning tabiati, qasos va izlanish haqidagi epik hikoyadir. Kitobda qahramonning o‘ziga bo‘lgan kurashi va dengizdagi sarguzashtlar tasvirlangan.",
+      "phrase": "\"Hayot – bu suzish, va ba'zida dengiz to‘lqinlari qarshi keladi.\"",
+      "author": "Herman Melville",
+      "publishedYear": 1851,
+      "likes": 320,
+      "rating": 4.7,
+      "seller": "Epic Books",
+      "comments": [
+        {
+          "user": "Alex",
+          "comment": "Dengiz haqidagi eng yaxshi asarlardan biri."
+        },
+        {
+          "user": "Laylo",
+          "comment": "Qasos va izlanish mavzusida chuqur kitob."
+        }
+      ]
     },
     {
       "id": 13,
-      "title": "Aql va Yurak",
-      "category": "Psychology",
+      "title": "Anna Karenina",
+      "category": "Romantika",
       "image": "https://picsum.photos/id/1023/300/400",
-      "postedAt": "2025-05-08T17:10:00Z",
-      "description": "\"Yurak his qiladi, aql tahlil qiladi – haqiqiy qaror ular birlashganda tug‘iladi.\"",
-      "likes": 95,
-      "seller": "Islom Karim",
-      "rating": 4.7
+      "postedAt": "2025-05-08T11:10:00Z",
+      "description": "Lev Tolstoyning klassik romani, sevgi, sadoqat va ijtimoiy ziddiyatlarni chuqur tahlil qiladi. Qahramonlarning murakkab his-tuyg‘ulari orqali o‘ziga xos hayotiy darslar beriladi.",
+      "phrase": "\"Sevgi ba'zida eng qattiq azoblarni olib keladi.\"",
+      "author": "Lev Tolstoy",
+      "publishedYear": 1877,
+      "likes": 560,
+      "rating": 5.0,
+      "seller": "Russian Classics",
+      "comments": [
+        {
+          "user": "Olim",
+          "comment": "Hayot haqidagi eng chuqur asarlardan biri."
+        },
+        {
+          "user": "Nilufar",
+          "comment": "Sevgi va sadoqatni mukammal tasvirlagan."
+        }
+      ]
     },
     {
       "id": 14,
-      "title": "Tungi Yomg‘ir",
-      "category": "Romance",
+      "title": "To‘rt Soat Ish Haftasi",
+      "category": "Komediya",
       "image": "https://picsum.photos/id/1024/300/400",
-      "postedAt": "2025-05-07T21:00:00Z",
-      "description": "\"Yomg‘ir ostida sevgi izhor etilgan kechalar unutilmaydi.\"",
-      "likes": 104,
-      "seller": "Rayhona Akbarova",
-      "rating": 4.5
+      "postedAt": "2025-05-07T17:30:00Z",
+      "description": "Tim Ferriss tomonidan yozilgan bu kitob samaradorlik, vaqtni boshqarish va hayot sifatini oshirish haqida innovatsion g‘oyalarni taqdim etadi. Zamonaviy ish tartibini o‘zgartirishga undaydi.",
+      "phrase": "\"Kamroq ishlang, ko‘proq yashang.\"",
+      "author": "Tim Ferriss",
+      "publishedYear": 2007,
+      "likes": 280,
+      "rating": 4.6,
+      "seller": "Self-Help Books",
+      "comments": [
+        {
+          "user": "Jasur",
+          "comment": "Vaqtni boshqarish bo‘yicha juda foydali kitob."
+        },
+        {
+          "user": "Dildora",
+          "comment": "Hayotimni o‘zgartirdi."
+        }
+      ]
     },
     {
       "id": 15,
-      "title": "Chegarasiz Xayollar",
-      "category": "Science Fiction",
+      "title": "The Great Gatsby",
+      "category": "Romantika",
       "image": "https://picsum.photos/id/1025/300/400",
-      "postedAt": "2025-05-06T13:55:00Z",
-      "description": "\"Tasavvur qilishni bas qilsang, borliq ham to‘xtaydi.\"",
-      "likes": 119,
-      "seller": "Murod Turg‘unov",
-      "rating": 4.8
+      "postedAt": "2025-05-06T14:00:00Z",
+      "description": "F. Scott Fitzgeraldning bu asari Amerika jamiyatining yuksalishi va qulashini, sevgi va xayollarni yorqin tasvirlaydi. Zamonaviy klassik roman sifatida katta ahamiyatga ega.",
+      "phrase": "\"Orzularimizning narxi ko‘p hollarda juda yuqori bo‘ladi.\"",
+      "author": "F. Scott Fitzgerald",
+      "publishedYear": 1925,
+      "likes": 450,
+      "rating": 4.8,
+      "seller": "Classic American Literature",
+      "comments": [
+        {
+          "user": "Emma",
+          "comment": "Amerika adabiyotining eng yorqin asari."
+        },
+        {
+          "user": "Sardor",
+          "comment": "Sevgi va xayollar haqidagi go‘zal hikoya."
+        }
+      ]
     }
   ]
 }
