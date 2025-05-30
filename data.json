@@ -5,373 +5,1302 @@
       "title": "1984",
       "slug": "1984",
       "category": "Qiyal",
-      "image": "https://picsum.photos/id/1000/300/400",
-      "postedAt": "2025-05-15T10:00:00Z",
-      "description": "Jorj Orvellning bu asari totalitar jamiyat va shaxs erkinligi mavzularini chuqur o‘rganadi. Ushbu roman kelajakda insoniyat duch keladigan xavflarni ko‘rsatadi.",
-      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
-      "author": "George Orwell",
-      "publishedYear": 1949,
-      "likes": 500,
-      "rating": 4.8,
-      "seller": "Dystopian Books",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000000-L.jpg",
+      "postedAt": "2025-05-01T00:00:00Z",
+      "description": "1984 asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1998,
+      "likes": 548,
+      "rating": 3.2,
+      "price": 22.7,
+      "seller": "Classic Reads",
       "comments": [
         {
           "user": "Ali",
-          "comment": "Katta ta'sir qoldirgan asar."
+          "comment": "Zo'r kitob!"
         },
         {
           "user": "Dilshod",
-          "comment": "Hayot haqida yangi qarashlar berdi."
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         }
       ]
     },
     {
       "id": 2,
-      "title": "To Kill a Mockingbird",
-      "slug": "to-kill-a-mockingbird",
-      "category": "Qiyal",
-      "image": "https://picsum.photos/id/1001/300/400",
-      "postedAt": "2025-05-14T09:00:00Z",
-      "description": "Harper Li tomonidan yozilgan bu roman irqiy adolatsizlik va insoniylik haqida. Bolalik ko‘zidan jamiyatdagi muammolar tasvirlangan.",
-      "phrase": "\"Adolat ko‘z oldida ko‘rinsa, dunyo yaxshilanadi.\"",
-      "author": "Harper Lee",
-      "publishedYear": 1960,
-      "likes": 450,
-      "rating": 4.9,
-      "seller": "Classic Novels",
+      "title": "Hayvonlar fermasi",
+      "slug": "hayvonlar-fermasi",
+      "category": "Dramma",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000001-L.jpg",
+      "postedAt": "2025-05-02T00:00:00Z",
+      "description": "Hayvonlar fermasi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Mark Twain",
+      "publishedYear": 2020,
+      "likes": 258,
+      "rating": 3.3,
+      "price": 33.08,
+      "seller": "O‘zKitob",
       "comments": [
         {
-          "user": "Mariya",
-          "comment": "Insoniylik va mehr-muhabbat haqida ajoyib asar."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
         },
         {
-          "user": "Jasur",
-          "comment": "Har doim o‘qishga tavsiya qilaman."
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         }
       ]
     },
     {
       "id": 3,
-      "title": "The Catcher in the Rye",
-      "slug": "the-catcher-in-the-rye",
+      "title": "Yuz yillik yolg‘izlik",
+      "slug": "yuz-yillik-yolgizlik",
       "category": "Qiyal",
-      "image": "https://picsum.photos/id/1002/300/400",
-      "postedAt": "2025-05-13T11:00:00Z",
-      "description": "J.D. Salinger tomonidan yozilgan bu asar o‘smirlik davrining murakkabliklari va ijtimoiy moslashuv haqida hikoya qiladi.",
-      "phrase": "\"Har bir yosh inson o‘z yo‘lini izlaydi.\"",
-      "author": "J.D. Salinger",
-      "publishedYear": 1951,
-      "likes": 350,
-      "rating": 4.5,
-      "seller": "Modern Classics",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000002-L.jpg",
+      "postedAt": "2025-05-03T00:00:00Z",
+      "description": "Yuz yillik yolg‘izlik asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Gabriel García Márquez",
+      "publishedYear": 1983,
+      "likes": 906,
+      "rating": 3.8,
+      "price": 28.29,
+      "seller": "Dystopian Books",
       "comments": [
         {
-          "user": "Sanjar",
-          "comment": "Yoshlar hayotini juda yaxshi ifodalagan."
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         },
         {
-          "user": "Nilufar",
-          "comment": "O‘smirlikning murakkabligi haqida ajoyib asar."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
         }
       ]
     },
     {
       "id": 4,
-      "title": "The Hobbit",
-      "slug": "the-hobbit",
-      "category": "Fantastika",
-      "image": "https://picsum.photos/id/1003/300/400",
-      "postedAt": "2025-05-12T08:30:00Z",
-      "description": "J.R.R. Tolkienning ushbu kitobi fantastik olam va sarguzashtlar haqidagi ertakdir. Qahramon Bilbo Bagginsning ajoyib sarguzashtlari tasvirlangan.",
-      "phrase": "\"Sarguzasht har doim yaqinlarda.\"",
-      "author": "J.R.R. Tolkien",
+      "title": "Ulug‘bek xazinasi",
+      "slug": "ulugbek-xazinasi",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000003-L.jpg",
+      "postedAt": "2025-05-04T00:00:00Z",
+      "description": "Ulug‘bek xazinasi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Hayot o‘zi bir sarguzasht.\"",
+      "author": "John Steinbeck",
       "publishedYear": 1937,
-      "likes": 600,
-      "rating": 5.0,
-      "seller": "Fantasy World",
+      "likes": 887,
+      "rating": 4.2,
+      "price": 8.37,
+      "seller": "Yangi Asr",
       "comments": [
         {
-          "user": "Bekzod",
-          "comment": "Fantastika sevuvchilar uchun mukammal kitob."
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         },
         {
-          "user": "Malika",
-          "comment": "Sarguzashtlarni juda yaxshi tasvirlaydi."
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
         }
       ]
     },
     {
       "id": 5,
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "slug": "harry-potter-and-the-sorcerers-stone",
-      "category": "Fantastika",
-      "image": "https://picsum.photos/id/1004/300/400",
-      "postedAt": "2025-05-11T14:00:00Z",
-      "description": "J.K. Rowlingning bu asari sehrli maktabdagi birinchi yillik sarguzashtlar va do‘stlik haqida hikoya qiladi.",
-      "phrase": "\"Do‘stlik va jasorat har doim g‘alaba qozonadi.\"",
-      "author": "J.K. Rowling",
-      "publishedYear": 1997,
-      "likes": 800,
-      "rating": 4.9,
-      "seller": "Magic Books",
+      "title": "Alkimyogar",
+      "slug": "alkimyogar",
+      "category": "Dramma",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000004-L.jpg",
+      "postedAt": "2025-05-05T00:00:00Z",
+      "description": "Alkimyogar asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "O'tkir Hoshimov",
+      "publishedYear": 1943,
+      "likes": 433,
+      "rating": 4.0,
+      "price": 28.62,
+      "seller": "Yangi Asr",
       "comments": [
         {
-          "user": "Ali",
-          "comment": "Sehrli dunyoga sayohat."
-        },
-        {
-          "user": "Dilorom",
-          "comment": "Har doim qayta o‘qishga arziydi."
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
         }
       ]
     },
     {
       "id": 6,
-      "title": "The Da Vinci Code",
-      "slug": "the-da-vinci-code",
-      "category": "Triller",
-      "image": "https://picsum.photos/id/1005/300/400",
-      "postedAt": "2025-05-10T13:00:00Z",
-      "description": "Dan Brownning bu asari sirli jumboqlar va tarixiy sirlar bilan to‘la triller. Qahramonlar sirni ochishga harakat qiladi.",
-      "phrase": "\"Haqiqat ko‘pincha qiyinroq bo‘ladi.\"",
-      "author": "Dan Brown",
-      "publishedYear": 2003,
-      "likes": 700,
-      "rating": 4.6,
-      "seller": "Thriller Books",
+      "title": "O‘tkan kunlar",
+      "slug": "otkan-kunlar",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000005-L.jpg",
+      "postedAt": "2025-05-06T00:00:00Z",
+      "description": "O‘tkan kunlar asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1960,
+      "likes": 165,
+      "rating": 4.8,
+      "price": 27.54,
+      "seller": "Yangi Asr",
       "comments": [
         {
-          "user": "Sardor",
-          "comment": "Sirli va qiziqarli kitob."
-        },
-        {
-          "user": "Malika",
-          "comment": "Bir zumda o‘qib bitirdim."
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         }
       ]
     },
     {
       "id": 7,
-      "title": "Sherlock Holmes: The Complete Novels and Stories",
-      "slug": "sherlock-holmes-the-complete-novels-and-stories",
-      "category": "Detektiv",
-      "image": "https://picsum.photos/id/1006/300/400",
-      "postedAt": "2025-05-09T09:30:00Z",
-      "description": "Arthur Conan Doyle tomonidan yozilgan bu to‘plam detektiv Janrining eng yorqin namunalarini o‘z ichiga oladi. Sherlock Holmesning ajoyib kashfiyotlari.",
-      "phrase": "\"Har doim dalillar gapiradi.\"",
-      "author": "Arthur Conan Doyle",
-      "publishedYear": 1892,
-      "likes": 650,
-      "rating": 5.0,
-      "seller": "Detective Collection",
+      "title": "Sherlock Xolms sarguzashtlari",
+      "slug": "sherlock-xolms-sarguzashtlari",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000006-L.jpg",
+      "postedAt": "2025-05-07T00:00:00Z",
+      "description": "Sherlock Xolms sarguzashtlari asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Chingiz Aytmatov",
+      "publishedYear": 1961,
+      "likes": 922,
+      "rating": 4.4,
+      "price": 39.66,
+      "seller": "Yangi Asr",
       "comments": [
         {
-          "user": "Jasur",
-          "comment": "Detektiv janrining afsonasi."
-        },
-        {
-          "user": "Nilufar",
-          "comment": "Sherlock Holmesni sevuvchilar uchun ajoyib."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
         }
       ]
     },
     {
       "id": 8,
-      "title": "The Alchemist",
-      "slug": "the-alchemist",
-      "category": "Qiyal",
-      "image": "https://picsum.photos/id/1007/300/400",
-      "postedAt": "2025-05-08T12:00:00Z",
-      "description": "Paulo Coelho tomonidan yozilgan bu kitob hayotiy maqsadlarni topish va o‘z orzularimizni amalga oshirish haqida motivatsion roman.",
-      "phrase": "\"Orzularimizga ergashish hayotning mazmunidir.\"",
-      "author": "Paulo Coelho",
-      "publishedYear": 1988,
-      "likes": 900,
-      "rating": 4.7,
-      "seller": "Motivational Reads",
+      "title": "Sariq devning o‘limi",
+      "slug": "sariq-devning-olimi",
+      "category": "Tarixiy",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000007-L.jpg",
+      "postedAt": "2025-05-08T00:00:00Z",
+      "description": "Sariq devning o‘limi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 2017,
+      "likes": 960,
+      "rating": 4.6,
+      "price": 26.57,
+      "seller": "O‘zKitob",
       "comments": [
         {
-          "user": "Dilorom",
-          "comment": "Hayotga yangi qarashlar berdi."
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
         },
         {
-          "user": "Olim",
-          "comment": "Orzularni amalga oshirish uchun ilhom manbai."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         }
       ]
     },
     {
       "id": 9,
-      "title": "Crime and Punishment",
-      "slug": "crime-and-punishment",
-      "category": "Qiyal",
-      "image": "https://picsum.photos/id/1008/300/400",
-      "postedAt": "2025-05-07T15:45:00Z",
-      "description": "Fyodor Dostoyevskiy tomonidan yozilgan bu asar jinoyat, qasos va inson ruhiy holatlari haqida chuqur falsafiy tahlil. Qahramonning ichki kurashlari va ijtimoiy adolat masalalari markazda turadi.",
-      "phrase": "\"Har bir jinoyatning o‘z jazosi bor.\"",
-      "author": "Fyodor Dostoyevskiy",
-      "publishedYear": 1866,
-      "likes": 589,
-      "rating": 5.0,
-      "seller": "Classic Russian Literature",
+      "title": "Qor",
+      "slug": "qor",
+      "category": "Tarixiy",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000008-L.jpg",
+      "postedAt": "2025-05-09T00:00:00Z",
+      "description": "Qor asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Gabriel García Márquez",
+      "publishedYear": 2017,
+      "likes": 957,
+      "rating": 3.6,
+      "price": 7.85,
+      "seller": "Classic Reads",
       "comments": [
         {
-          "user": "Dmitriy",
-          "comment": "Inson ruhining eng chuqur qatlamlari ochildi."
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
         },
         {
-          "user": "Anvar",
-          "comment": "Jinoyat va jazoni yanada yaxshiroq tushunishga yordam berdi."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Sohil",
+      "slug": "sohil",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000009-L.jpg",
+      "postedAt": "2025-05-10T00:00:00Z",
+      "description": "Sohil asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1939,
+      "likes": 480,
+      "rating": 3.6,
+      "price": 5.96,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
         }
       ]
     },
     {
       "id": 11,
-      "title": "Pride and Prejudice",
-      "slug": "pride-and-prejudice",
-      "category": "Romantika",
-      "image": "https://picsum.photos/id/1021/300/400",
-      "postedAt": "2025-05-10T12:30:00Z",
-      "description": "Jane Austenning mashhur romani, ijtimoiy tabakalarga qarshi sevgi va munosabatlarning murakkabligini yorqin tasvirlaydi. Ayollar huquqlari va jamiyatdagi o‘zgarishlar mavzusi o‘rganiladi.",
-      "phrase": "\"Faoliyat va tabiat, g‘urur va e'tibor orasidagi murakkab bog‘liqlik.\"",
-      "author": "Jane Austen",
-      "publishedYear": 1813,
-      "likes": 480,
-      "rating": 4.9,
-      "seller": "English Classics",
+      "title": "Momo Havo",
+      "slug": "momo-havo",
+      "category": "Qiyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000010-L.jpg",
+      "postedAt": "2025-05-11T00:00:00Z",
+      "description": "Momo Havo asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Gabriel García Márquez",
+      "publishedYear": 1952,
+      "likes": 830,
+      "rating": 3.4,
+      "price": 15.01,
+      "seller": "Yangi Asr",
       "comments": [
         {
-          "user": "Emma",
-          "comment": "Sevgi va jamiyat haqida qiziqarli qarashlar."
-        },
-        {
-          "user": "Sardor",
-          "comment": "Eng yaxshi romantik asarlardan biri."
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
         }
       ]
     },
     {
       "id": 12,
-      "title": "Moby-Dick",
-      "slug": "moby-dick",
-      "category": "Fantastika",
-      "image": "https://picsum.photos/id/1022/300/400",
-      "postedAt": "2025-05-09T15:00:00Z",
-      "description": "Herman Melvillning bu asari insonning tabiati, qasos va izlanish haqidagi epik hikoyadir. Kitobda qahramonning o‘ziga bo‘lgan kurashi va dengizdagi sarguzashtlar tasvirlangan.",
-      "phrase": "\"Hayot – bu suzish, va ba'zida dengiz to‘lqinlari qarshi keladi.\"",
-      "author": "Herman Melville",
-      "publishedYear": 1851,
-      "likes": 320,
-      "rating": 4.7,
-      "seller": "Epic Books",
+      "title": "Sariq yulduz",
+      "slug": "sariq-yulduz",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000011-L.jpg",
+      "postedAt": "2025-05-12T00:00:00Z",
+      "description": "Sariq yulduz asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "George Orwell",
+      "publishedYear": 2008,
+      "likes": 810,
+      "rating": 3.0,
+      "price": 24.41,
+      "seller": "Iste'dodlar nashriyoti",
       "comments": [
         {
-          "user": "Alex",
-          "comment": "Dengiz haqidagi eng yaxshi asarlardan biri."
-        },
-        {
-          "user": "Laylo",
-          "comment": "Qasos va izlanish mavzusida chuqur kitob."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
         }
       ]
     },
     {
       "id": 13,
-      "title": "Anna Karenina",
-      "slug": "anna-karenina",
-      "category": "Romantika",
-      "image": "https://picsum.photos/id/1023/300/400",
-      "postedAt": "2025-05-08T11:10:00Z",
-      "description": "Lev Tolstoyning klassik romani, sevgi, sadoqat va ijtimoiy ziddiyatlarni chuqur tahlil qiladi. Qahramonlarning murakkab his-tuyg‘ulari orqali o‘ziga xos hayotiy darslar beriladi.",
-      "phrase": "\"Sevgi ba'zida eng qattiq azoblarni olib keladi.\"",
-      "author": "Lev Tolstoy",
-      "publishedYear": 1877,
-      "likes": 560,
-      "rating": 5.0,
-      "seller": "Russian Classics",
+      "title": "Parisi",
+      "slug": "parisi",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000012-L.jpg",
+      "postedAt": "2025-05-13T00:00:00Z",
+      "description": "Parisi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 2023,
+      "likes": 384,
+      "rating": 4.9,
+      "price": 10.89,
+      "seller": "O‘zKitob",
       "comments": [
         {
-          "user": "Olim",
-          "comment": "Hayot haqidagi eng chuqur asarlardan biri."
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         },
         {
-          "user": "Nilufar",
-          "comment": "Sevgi va sadoqatni mukammal tasvirlagan."
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
         }
       ]
     },
     {
       "id": 14,
-      "title": "To‘rt Soat Ish Haftasi",
-      "slug": "tort-soat-ish-haftasi",
-      "category": "Qiyal",
-      "image": "https://picsum.photos/id/1024/300/400",
-      "postedAt": "2025-05-07T17:30:00Z",
-      "description": "Tim Ferriss tomonidan yozilgan bu kitob samaradorlik, vaqtni boshqarish va hayot sifatini oshirish haqida innovatsion g‘oyalarni taqdim etadi. Zamonaviy ish tartibini o‘zgartirishga undaydi.",
-      "phrase": "\"Kamroq ishlang, ko‘proq yashang.\"",
-      "author": "Tim Ferriss",
-      "publishedYear": 2007,
-      "likes": 280,
-      "rating": 4.6,
-      "seller": "Self-Help Books",
+      "title": "Zulmat ichra",
+      "slug": "zulmat-ichra",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000013-L.jpg",
+      "postedAt": "2025-05-14T00:00:00Z",
+      "description": "Zulmat ichra asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1937,
+      "likes": 243,
+      "rating": 3.7,
+      "price": 8.87,
+      "seller": "Yangi Asr",
       "comments": [
         {
-          "user": "Jasur",
-          "comment": "Vaqtni boshqarish bo‘yicha juda foydali kitob."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
         },
         {
-          "user": "Dildora",
-          "comment": "Hayotimni o‘zgartirdi."
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
         }
       ]
     },
     {
       "id": 15,
-      "title": "The Great Gatsby",
-      "slug": "the-great-gatsby",
-      "category": "Romantika",
-      "image": "https://picsum.photos/id/1025/300/400",
-      "postedAt": "2025-05-06T14:00:00Z",
-      "description": "F. Scott Fitzgeraldning bu asari Amerika jamiyatining yuksalishi va qulashini, sevgi va xayollarni yorqin tasvirlaydi. Zamonaviy klassik roman sifatida katta ahamiyatga ega.",
-      "phrase": "\"Orzularimizning narxi ko‘p hollarda juda yuqori bo‘ladi.\"",
-      "author": "F. Scott Fitzgerald",
-      "publishedYear": 1925,
-      "likes": 450,
-      "rating": 4.8,
-      "seller": "Classic American Literature",
+      "title": "Ko‘hna dunyo",
+      "slug": "kohna-dunyo",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000014-L.jpg",
+      "postedAt": "2025-05-15T00:00:00Z",
+      "description": "Ko‘hna dunyo asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 1954,
+      "likes": 107,
+      "rating": 3.0,
+      "price": 18.93,
+      "seller": "Iste'dodlar nashriyoti",
       "comments": [
         {
-          "user": "Emma",
-          "comment": "Amerika adabiyotining eng yorqin asari."
-        },
-        {
-          "user": "Sardor",
-          "comment": "Tolstoyning mahorati ajoyib."
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
         }
       ]
     },
     {
-      "id": 14,
-      "title": "The Notebook",
-      "slug": "the-notebook",
-      "category": "Romantika",
-      "image": "https://picsum.photos/id/1024/300/400",
-      "postedAt": "2025-05-07T14:50:00Z",
-      "description": "Nicholas Sparksning bu romani haqiqiy sevgi va sadoqat haqida. Qahramonlar o‘rtasidagi munosabatlarning kuchi va vaqt sinovlari yoritilgan.",
-      "phrase": "\"Haqiqiy sevgi hech qachon o‘lmaydi.\"",
-      "author": "Nicholas Sparks",
-      "publishedYear": 1996,
-      "likes": 700,
-      "rating": 4.8,
-      "seller": "Romance Books",
+      "id": 16,
+      "title": "Temur tuzuklari",
+      "slug": "temur-tuzuklari",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000015-L.jpg",
+      "postedAt": "2025-05-16T00:00:00Z",
+      "description": "Temur tuzuklari asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Fyodor Dostoevskiy",
+      "publishedYear": 1969,
+      "likes": 607,
+      "rating": 4.3,
+      "price": 17.95,
+      "seller": "Iste'dodlar nashriyoti",
       "comments": [
         {
-          "user": "Malika",
-          "comment": "Romantik va hissiyotlarga boy."
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Boy ota, kambag‘al ota",
+      "slug": "boy-ota,-kambagal-ota",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000016-L.jpg",
+      "postedAt": "2025-05-17T00:00:00Z",
+      "description": "Boy ota, kambag‘al ota asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Chingiz Aytmatov",
+      "publishedYear": 1949,
+      "likes": 282,
+      "rating": 4.1,
+      "price": 46.65,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Shaytanat",
+      "slug": "shaytanat",
+      "category": "Qiyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000017-L.jpg",
+      "postedAt": "2025-05-18T00:00:00Z",
+      "description": "Shaytanat asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 1953,
+      "likes": 978,
+      "rating": 3.5,
+      "price": 46.27,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
         },
         {
-          "user": "Jasmina",
-          "comment": "Yurakni larzaga soladigan kitob."
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Oq kema",
+      "slug": "oq-kema",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000018-L.jpg",
+      "postedAt": "2025-05-19T00:00:00Z",
+      "description": "Oq kema asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Chingiz Aytmatov",
+      "publishedYear": 1944,
+      "likes": 545,
+      "rating": 5.0,
+      "price": 19.04,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Jannat izlab",
+      "slug": "jannat-izlab",
+      "category": "Qiyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000019-L.jpg",
+      "postedAt": "2025-05-20T00:00:00Z",
+      "description": "Jannat izlab asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1968,
+      "likes": 167,
+      "rating": 4.3,
+      "price": 38.45,
+      "seller": "Yangi Asr",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Bahor nashidasi",
+      "slug": "bahor-nashidasi",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000020-L.jpg",
+      "postedAt": "2025-05-21T00:00:00Z",
+      "description": "Bahor nashidasi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1954,
+      "likes": 591,
+      "rating": 3.5,
+      "price": 42.27,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Qaldirg‘och va g‘avvos",
+      "slug": "qaldirgoch-va-gavvos",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000021-L.jpg",
+      "postedAt": "2025-05-22T00:00:00Z",
+      "description": "Qaldirg‘och va g‘avvos asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1971,
+      "likes": 650,
+      "rating": 3.6,
+      "price": 8.58,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Ufq",
+      "slug": "ufq",
+      "category": "Qiyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000022-L.jpg",
+      "postedAt": "2025-05-23T00:00:00Z",
+      "description": "Ufq asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Chingiz Aytmatov",
+      "publishedYear": 2007,
+      "likes": 771,
+      "rating": 3.0,
+      "price": 34.08,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Tutun",
+      "slug": "tutun",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000023-L.jpg",
+      "postedAt": "2025-05-24T00:00:00Z",
+      "description": "Tutun asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Fyodor Dostoevskiy",
+      "publishedYear": 1984,
+      "likes": 294,
+      "rating": 3.5,
+      "price": 48.51,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Yulduzli tunlar",
+      "slug": "yulduzli-tunlar",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000024-L.jpg",
+      "postedAt": "2025-05-25T00:00:00Z",
+      "description": "Yulduzli tunlar asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "George Orwell",
+      "publishedYear": 1983,
+      "likes": 470,
+      "rating": 4.7,
+      "price": 48.7,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Adolat",
+      "slug": "adolat",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000025-L.jpg",
+      "postedAt": "2025-05-26T00:00:00Z",
+      "description": "Adolat asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 2024,
+      "likes": 513,
+      "rating": 3.3,
+      "price": 48.29,
+      "seller": "Classic Reads",
+      "comments": [
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Zulmat va nur",
+      "slug": "zulmat-va-nur",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000026-L.jpg",
+      "postedAt": "2025-05-27T00:00:00Z",
+      "description": "Zulmat va nur asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1978,
+      "likes": 843,
+      "rating": 5.0,
+      "price": 38.33,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Asrlar sadosi",
+      "slug": "asrlar-sadosi",
+      "category": "Tarixiy",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000027-L.jpg",
+      "postedAt": "2025-05-28T00:00:00Z",
+      "description": "Asrlar sadosi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "Mark Twain",
+      "publishedYear": 2002,
+      "likes": 399,
+      "rating": 3.6,
+      "price": 46.52,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Zamon",
+      "slug": "zamon",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000028-L.jpg",
+      "postedAt": "2025-05-29T00:00:00Z",
+      "description": "Zamon asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 2009,
+      "likes": 128,
+      "rating": 4.4,
+      "price": 41.64,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Bahor kelganda",
+      "slug": "bahor-kelganda",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000029-L.jpg",
+      "postedAt": "2025-05-30T00:00:00Z",
+      "description": "Bahor kelganda asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1956,
+      "likes": 480,
+      "rating": 3.6,
+      "price": 27.13,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Odamiylik mulki",
+      "slug": "odamiylik-mulki",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000030-L.jpg",
+      "postedAt": "2025-05-31T00:00:00Z",
+      "description": "Odamiylik mulki asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Erkin A'zam",
+      "publishedYear": 1940,
+      "likes": 882,
+      "rating": 3.6,
+      "price": 7.52,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Bo‘ron",
+      "slug": "boron",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000031-L.jpg",
+      "postedAt": "2025-06-01T00:00:00Z",
+      "description": "Bo‘ron asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 1988,
+      "likes": 114,
+      "rating": 3.6,
+      "price": 18.66,
+      "seller": "Classic Reads",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Yorug‘lik sari",
+      "slug": "yoruglik-sari",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000032-L.jpg",
+      "postedAt": "2025-06-02T00:00:00Z",
+      "description": "Yorug‘lik sari asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Chingiz Aytmatov",
+      "publishedYear": 1969,
+      "likes": 229,
+      "rating": 4.1,
+      "price": 14.83,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Sokin tunlar",
+      "slug": "sokin-tunlar",
+      "category": "Qiyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000033-L.jpg",
+      "postedAt": "2025-06-03T00:00:00Z",
+      "description": "Sokin tunlar asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Fyodor Dostoevskiy",
+      "publishedYear": 1974,
+      "likes": 894,
+      "rating": 3.7,
+      "price": 28.35,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Sharq",
+      "slug": "sharq",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000034-L.jpg",
+      "postedAt": "2025-06-04T00:00:00Z",
+      "description": "Sharq asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Hayot o‘zi bir sarguzasht.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 2002,
+      "likes": 614,
+      "rating": 4.1,
+      "price": 18.75,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Shamol",
+      "slug": "shamol",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000035-L.jpg",
+      "postedAt": "2025-06-05T00:00:00Z",
+      "description": "Shamol asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Gabriel García Márquez",
+      "publishedYear": 1976,
+      "likes": 266,
+      "rating": 4.0,
+      "price": 49.6,
+      "seller": "Classic Reads",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Yolg‘izlik",
+      "slug": "yolgizlik",
+      "category": "Dramma",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000036-L.jpg",
+      "postedAt": "2025-06-06T00:00:00Z",
+      "description": "Yolg‘izlik asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Haqiqat ba'zida og‘riqli bo‘ladi.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1945,
+      "likes": 620,
+      "rating": 4.9,
+      "price": 9.61,
+      "seller": "Yangi Asr",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Orzular qanoti",
+      "slug": "orzular-qanoti",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000037-L.jpg",
+      "postedAt": "2025-06-07T00:00:00Z",
+      "description": "Orzular qanoti asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 2009,
+      "likes": 861,
+      "rating": 4.3,
+      "price": 45.16,
+      "seller": "Yangi Asr",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Yovvoyi yurak",
+      "slug": "yovvoyi-yurak",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000038-L.jpg",
+      "postedAt": "2025-06-08T00:00:00Z",
+      "description": "Yovvoyi yurak asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Hayot o‘zi bir sarguzasht.\"",
+      "author": "Paulo Coelho",
+      "publishedYear": 1995,
+      "likes": 562,
+      "rating": 5.0,
+      "price": 40.39,
+      "seller": "Classic Reads",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Shoir yuragi",
+      "slug": "shoir-yuragi",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000039-L.jpg",
+      "postedAt": "2025-06-09T00:00:00Z",
+      "description": "Shoir yuragi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 1989,
+      "likes": 220,
+      "rating": 3.4,
+      "price": 41.73,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Qalb nidosi",
+      "slug": "qalb-nidosi",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000040-L.jpg",
+      "postedAt": "2025-06-10T00:00:00Z",
+      "description": "Qalb nidosi asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1944,
+      "likes": 866,
+      "rating": 3.2,
+      "price": 33.04,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Peshona",
+      "slug": "peshona",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000041-L.jpg",
+      "postedAt": "2025-06-11T00:00:00Z",
+      "description": "Peshona asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Chingiz Aytmatov",
+      "publishedYear": 1951,
+      "likes": 756,
+      "rating": 4.4,
+      "price": 30.91,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Qonli yo‘llar",
+      "slug": "qonli-yollar",
+      "category": "Sarguzasht",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000042-L.jpg",
+      "postedAt": "2025-06-12T00:00:00Z",
+      "description": "Qonli yo‘llar asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Fyodor Dostoevskiy",
+      "publishedYear": 1998,
+      "likes": 793,
+      "rating": 4.7,
+      "price": 14.39,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Temir daftarning sirlari",
+      "slug": "temir-daftarning-sirlari",
+      "category": "Psixologik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000043-L.jpg",
+      "postedAt": "2025-06-13T00:00:00Z",
+      "description": "Temir daftarning sirlari asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Mark Twain",
+      "publishedYear": 1987,
+      "likes": 141,
+      "rating": 4.0,
+      "price": 37.99,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "O‘tlar orasida",
+      "slug": "otlar-orasida",
+      "category": "Dramma",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000044-L.jpg",
+      "postedAt": "2025-06-14T00:00:00Z",
+      "description": "O‘tlar orasida asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "John Steinbeck",
+      "publishedYear": 1977,
+      "likes": 1000,
+      "rating": 4.8,
+      "price": 28.4,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        },
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Xotira",
+      "slug": "xotira",
+      "category": "Qiyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000045-L.jpg",
+      "postedAt": "2025-06-15T00:00:00Z",
+      "description": "Xotira asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Gabriel García Márquez",
+      "publishedYear": 1950,
+      "likes": 769,
+      "rating": 3.3,
+      "price": 32.05,
+      "seller": "Yangi Asr",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "So‘nggi tun",
+      "slug": "songgi-tun",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000046-L.jpg",
+      "postedAt": "2025-06-16T00:00:00Z",
+      "description": "So‘nggi tun asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Odam faqat orzular bilan yashaydi.\"",
+      "author": "Fyodor Dostoevskiy",
+      "publishedYear": 1975,
+      "likes": 465,
+      "rating": 3.5,
+      "price": 5.84,
+      "seller": "O‘zKitob",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Osmondagi odam",
+      "slug": "osmondagi-odam",
+      "category": "Fantastik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000047-L.jpg",
+      "postedAt": "2025-06-17T00:00:00Z",
+      "description": "Osmondagi odam asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Yolg‘izlik – eng katta sinov.\"",
+      "author": "Hakim Nazir",
+      "publishedYear": 2013,
+      "likes": 961,
+      "rating": 3.9,
+      "price": 5.17,
+      "seller": "Iste'dodlar nashriyoti",
+      "comments": [
+        {
+          "user": "Dilshod",
+          "comment": "Yaxshi taassurot qoldirdi."
+        },
+        {
+          "user": "Javlon",
+          "comment": "Mazmunli va chuqur asar."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Qora daryo",
+      "slug": "qora-daryo",
+      "category": "Tarixiy",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000048-L.jpg",
+      "postedAt": "2025-06-18T00:00:00Z",
+      "description": "Qora daryo asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "George Orwell",
+      "publishedYear": 2012,
+      "likes": 537,
+      "rating": 3.6,
+      "price": 7.27,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Nur sari",
+      "slug": "nur-sari",
+      "category": "Realistik",
+      "image": "https://covers.openlibrary.org/b/isbn/9780000000049-L.jpg",
+      "postedAt": "2025-06-19T00:00:00Z",
+      "description": "Nur sari asari o‘zining chuqur mazmuni va hissiy ta’siri bilan ajralib turadi.",
+      "phrase": "\"Erkinlik — bu haqiqatni aytishdir.\"",
+      "author": "Gabriel García Márquez",
+      "publishedYear": 2007,
+      "likes": 115,
+      "rating": 4.7,
+      "price": 5.33,
+      "seller": "Dystopian Books",
+      "comments": [
+        {
+          "user": "Laylo",
+          "comment": "O‘qishlikka arziydi."
+        },
+        {
+          "user": "Ali",
+          "comment": "Zo'r kitob!"
         }
       ]
     }
